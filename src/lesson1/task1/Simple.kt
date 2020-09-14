@@ -11,6 +11,7 @@ import kotlin.math.*
  */
 fun sqr(x: Int) = x * x
 
+
 /**
  * Пример
  *
